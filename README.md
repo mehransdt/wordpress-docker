@@ -1,8 +1,14 @@
 # wordpress-docker
-docker-compose for wordpress. Ready to go!
+docker-compose for wordpress.
+
 wordpress + apache + mysql + phpmyadmin
 
-docker-compose up -d
+**run:**
 
-wordpress port: 8080
-phpmyadmin port: 8282
+`docker-compose up -d`
+
+**after complete you can use wordpress and phpmyadmin on below ports ports:**
+
+`wordpress port: 8080`
+
+`phpmyadmin port: 8282`
